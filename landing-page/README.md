@@ -1,18 +1,15 @@
-# Landing Page Project
+here im trying to solve me mistakes and i hope to sucsess this time 
 
-## Table of Contents
+I have added the sections via JavaScript.
 
-* [Instructions](#instructions)
+I created a function to create a link for each section.
 
-## Instructions
+Modified the active class properties for both section and link.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+I made a button to create additional partitions.
 
-To get started, open `js/app.js` and start building out the app's functionality
+I made an icon to go to the top of the page.
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+I made the icon appear after scaling to 800 pixels.
 
-
-well..... i started with making the globel functions then make the nave bar by javascript 
-then i used addlistner to sections in navbar conected with the sections 
-then i used if and else statment to make an active effect when u inter each of every section
+I made the link header disappear after 8 seconds and reappear with just a scroll.
